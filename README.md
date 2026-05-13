@@ -33,7 +33,8 @@ pyinstaller --onefile --windowed meraki_apn_gui.py
 
 ## Screenshot
 
-<img width="1053" height="706" alt="image" src="https://github.com/user-attachments/assets/9a1e3bd4-0451-404f-91e5-6d628d501f2a" />
+<img width="1010" height="674" alt="image" src="https://github.com/user-attachments/assets/5030b4c8-0d77-443c-9dc1-5d3c0e78d726" />
+
 
 
 ## Disclaimer
